@@ -1,5 +1,6 @@
 # Ping-Pong-Game
 2D Ping-Pong game supports double player mode(using socket)
+
 此專案為學習socket使用，搭配小遊戲實作
 
 ## PIP 安裝 requirements.txt 的套件
@@ -8,11 +9,11 @@
 pip install -r requirements.txt
 
 ## 遊戲介紹
-1.有3種模式(AI vs AI, Player vs Ai, Player vs Player)
-2.使用上下方向鍵來移動
-3.玩家可以按 Esc 鍵離開遊戲
-4.單人模式中，玩家在左邊，AI在右邊
-5.雙人模式中，Server端在左邊，Client端在右邊，雙方都必須輸入Server端的IP
+1. 有3種模式(AI vs AI, Player vs Ai, Player vs Player)
+2. 使用上下方向鍵來移動
+3. 玩家可以按 Esc 鍵離開遊戲
+4. 單人模式中，玩家在左邊，AI在右邊
+5. 雙人模式中，Server端在左邊，Client端在右邊，雙方都必須輸入Server端的IP
 
 ## 程式簡介
 * 有單人模式可以用來打發時間，也可以和朋友雙人連線遊玩
